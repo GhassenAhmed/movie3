@@ -1,0 +1,115 @@
+{
+     "upcoming": [
+      {
+        "id": 0,
+        "nomfilm": "John Wick : Chapitre 4",
+        "genre": "Action",
+        "Date_de_sortie": "24 mars 2023 (États-Unis)",
+        "Réalisateur": "Chad Stahelski",
+        "propos": "John Wick affronte ses adversaires les plus mortels dans le quatrième volet de la série. Le prix de sa tête ne cessant d augmenter, Wick mène son combat à l échelle mondiale en recherchant les acteurs les plus puissants de la pègre, de New York à Paris en passant par Osaka et Berlin",
+        "postaire": "https://accessreel.com/app/uploads/2022/11/johnwick4-poster-key-art.jpg"
+      },
+      {
+        "id": 1,
+        "nomfilm": "Wonka",
+        "genre": "Comedie",
+        "Date_de_sortie": "15 décembre 2023 (États-Unis)",
+        "Réalisateur": "Paul King",
+        "propos": "Wonka est un film américano-britannique réalisé par Paul King et dont la sortie est prévue pour 2023. Il s'agit d'une préquelle au roman Charlie et la Chocolaterie de Roald Dahl, racontant la jeunesse de Willy Wonka.",
+        "postaire": "https://imgsrc.cineserie.com/2022/10/2141865.jpg?ver=1"
+      },
+      {
+        "id": 2,
+        "nomfilm": "Aquaman and the Lost Kingdom",
+        "genre": "Action/Cinéma de fantasy",
+        "Date_de_sortie": "25 décembre 2023 (États-Unis)",
+        "Réalisateur": "James Wan",
+        "propos": "Le superhéros Aquaman tente par tous les moyens de sauver la ville sous-marine d'Atlantis et le reste de la planète d'une catastrophe imminente. Afin de minimiser les dégâts, il devra s'efforcer de forger une alliance difficile avec un allié improbable",
+        "postaire": "https://flxt.tmsimg.com/assets/p18935685_v_v13_aa.jpg"
+      },
+      {
+        "id": 3,
+        "nomfilm": "Fast and Furious 10",
+        "genre": "Action/Aventure",
+        "Date_de_sortie": "19 mai 2023 (États-Unis)",
+        "Réalisateur": "Louis Leterrier",
+        "propos": "Fast and Furious 10, ou Rapides et dangereux 10 au Québec, est un film d'action américain réalisé par Louis Leterrier et dont la sortie est prévue en 2023. Il s'agit du 11ᵉ et dernier long métrage découpé en deux parties de la franchise Fast and Furious et la suite du film Fast and Furious 9 sorti en 2021",
+        "postaire": "https://www.nextplz.fr/wp-content/uploads/nextplz/2022/01/fast-and-furious-10.jpg"
+      },
+      {
+        "id": 4,
+        "nomfilm": "The Marvels",
+        "genre": " SF/Aventure",
+        "Date_de_sortie": "28 juillet 2023 (États-Unis)",
+        "Réalisateur": " Nia DaCosta",
+        "propos": "The Marvels est un film américain réalisé par Nia DaCosta et dont la sortie est prévue en 2023. Il s'agit du 33ᵉ film de l'univers cinématographique Marvel et le 3ᵉ de la phase V. Il met en scène Brie Larson dans le rôle de Carol Danvers/Captain Marvel, aux côtés d'Iman Vellani et Teyonah Parris",
+        "postaire": "https://images.thedirect.com/media/article_full/the-marvels-reshoots0-mcu-d23.jpg"
+      },
+      {
+        "id": 5,
+        "nomfilm": "Spider-Man : Across the Spider-Verse ",
+        "genre": "Action/SF",
+        "Date_de_sortie": "2 juin 2023 (États-Unis)",
+        "Réalisateur": "  Joaquim Dos Santos, Kemp Powers, Justin Thompson",
+        "propos": "Miles Morales revient pour une aventure épique qui entraînera notre héros sympa originaire de Brooklyn, à travers le Multivers pour unir ses forces à celles de Gwen Stacy et une nouvelle équipe de super héros. Ensemble, il vont faire face au méchant le plus puissant qu'ils n'aient jamais affronté.",
+        "postaire": "https://media.kg-portal.ru/production/spidermanintothespiderversesequel/spidermanintothespiderversesequel_3s.jpg"
+      }
+
+    ],
+    "populaire":[
+        {
+            "id": 0,
+            "nomfilm": "Le Samaritain",
+            "genre": "Action/Cinéma de fantasy",
+            "Date_de_sortie": "26 août 2022 (États-Unis)",
+            "Réalisateur": "Julius Avery",
+            "propos": "Âgé de 13 ans, Sam Cleary suspecte que son mystérieux et solitaire voisin, Mr. Smith, soit en réalité une légende qui se cache au grand jour. Il y a 25 ans, le super justicier de Granite City, Le Samaritain, a été déclaré mort dans un entrepôt, après un combat tragique avec son rival, Nemesis. Alors que la ville est au bord du chaos et que les crimes se multiplient, Sam se donne pour mission de persuader son voisin de sortir de sa cachette et de sauver la ville de la ruine.",
+            "postaire": "https://th-i.thgim.com/public/entertainment/movies/vw4yf2/article65630530.ece/alternates/LANDSCAPE_1200/Sylvester%20Stallone.jpg"
+          },
+          {
+            "id": 1,
+            "nomfilm": "Lou",
+            "genre": "Action",
+            "Date_de_sortie": "23 septembre 2022",
+            "Réalisateur": "Anna Foerster",
+            "propos": "Pensant avoir mis son passé dangereux derrière elle, Lou voit sa vie tranquille interrompue lorsqu'une mère désespérée la supplie de sauver sa fille kidnappée",
+            "postaire": "https://m.media-amazon.com/images/M/MV5BZDgzOThkMWYtODM3My00ODdmLWE1ZjAtZTgwNmNhMDcyZWMxXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_.jpg"
+          },
+          {
+            "id": 2,
+            "nomfilm": "Luckiest Girl Alive",
+            "genre": "Film à énigme/Thriller",
+            "Date_de_sortie": "30 septembre 2022",
+            "Réalisateur": "Mike Barker",
+            "propos": "Ani FaNelli, une new-yorkaise à la vie en apparence parfaite, voit sa vie bouleversée par la résurgence d'un drame de son passé. En effet, le réalisateur d'un reportage l'invite à raconter sa version du crime choquant qui s'est produit lorsqu'elle était adolescente à la prestigieuse Bradley School",
+            "postaire": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4euxR1G4sYhUKv7nYC9Fti_Oe72XUplS4VkzKHo_h5JzHyreioQdq0T-Gl9IbUcVffSY&usqp=CAU"
+          },
+          {
+            "id": 3,
+            "nomfilm": "Carter",
+            "genre": " Action",
+            "Date_de_sortie": "5 août 2022",
+            "Réalisateur": "Jeong Byeong-gil",
+            "propos": "Carter se réveille deux mois après le début d'une pandémie mortelle provenant de la DMZ et qui a déjà dévasté les États-Unis et la Corée du Nord. Sans aucun souvenir de son passé si ce n'est un mystérieux dispositif dans sa tête, une bombe mortelle dans sa bouche et une voix dans son oreille lui donnant des ordres pour éviter de se faire tuer. Carter est lancé dans une mystérieuse opération tandis que la CIA et le coup d'État nord-coréen le poursuivent de près",
+            "postaire": "https://fictionhorizon.com/wp-content/uploads/2022/08/cc-1.jpg"
+          },
+          {
+            "id": 4,
+            "nomfilm": "L'École du bien et du mal",
+            "genre": "Cinéma de fantasy/Drame",
+            "Date_de_sortie": "18 octobre 2022",
+            "Réalisateur": "Paul Feig",
+            "propos": "Sophie et Agatha sont meilleures amies. Elles sont destinées à intégrer l'école du bien pour la première avec Cendrillon et Blanche-Neige, et l'école du mal pour la seconde. Cependant, à la suite d'un sort, leur destinée respective va basculer et leur amitié sera mise à rude épreuve.",
+            "postaire": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWqQ2FQnb9QMxBlgsgrOzFNqmGf8L5TdcLm7IYc4G5NMIGlVIZ9ZEnyb4t2OU5kKFkR8Y&usqp=CAU"
+          },
+           {
+            "id": 5,
+            "nomfilm": "Athena",
+            "genre": "Drame",
+            "Date_de_sortie": "2 septembre 2022",
+            "Réalisateur": "Romain Gavras",
+            "propos": "Rappelé du front à la suite de la mort de son plus jeune frère, décédé des suites d’une prétendue intervention de police, Abdel retrouve sa famille déchirée. Entre le désir de vengeance de son petit frère Karim et le business en péril de son grand frère dealer Moktar, il essaye de calmer les tensions. Minute après minute, la cité Athena se transforme en château fort, théâtre d’une tragédie familiale et collective à venir. Au moment où chacun pense avoir trouvé la vérité, la cité est sur le point de basculer dans le chaos",
+            "postaire": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTz44LPAd5VQ4Rv6f4bbXzdnMQpFhEDrftQYExcSM7PEQau36w2uXNjrsQIb0n7EC2OUM&usqp=CAU"
+          }
+    ]
+  }
